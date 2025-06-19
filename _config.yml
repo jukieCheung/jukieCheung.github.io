@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Juk Zhang's Homepage"
+title                    : "Jukie Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "jukiecheung/jukiecheung.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Juk Zhang"
+  name             : "Jukie Zhang"
   pronouns         : "he/him"  
   bio              : "Incoming PhD student"
   location         : "Greater Bay Area, China"
