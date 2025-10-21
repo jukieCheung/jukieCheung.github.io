@@ -11,3 +11,5 @@ paperurl: 'https://doi.org/10.1007/978-3-031-44213-1_29'
 ---
 
 In recent years, multitudes of researches have applied deep learning to automatic sleep stage classification. Whereas actually, these works have paid less attention to the issue of cross-subject in sleep staging. At the same time, emerging neuroscience theories on inter-subject correlations can provide new insights for cross-subject analysis. This paper presents the MViTime model that have been used in sleep staging study. And we implement the inter-subject correlation theory through contrastive learning, providing a feasible solution to address the cross-subject problem in sleep stage classification. Finally, experimental results and conclusions are presented, demonstrating that the developed method has achieved state-of-the-art performance on sleep staging. The results of the ablation experiment also demonstrate the effectiveness of the cross-subject approach based on contrastive learning.
+![MViTime](/images/publications/mvtime.png)
+
