@@ -1,12 +1,12 @@
 ---
-title: "Contrastive Learning for Sleep Staging based on Inter Subject Correlation"
+title: "Rethinking data input for point cloud upsampling"
 collection: publications
 category: conferences
 #permalink: 'https://doi.org/10.1007/978-3-031-44213-1_29'
-excerpt: ' This paper presents the MViTime model that has been used in EEG sleep staging study..'
-date: 2023-09-22
-venue: '32nd International Conference on Artificial Neural Networks'
-paperurl: 'https://doi.org/10.1007/978-3-031-44213-1_29'
+excerpt: ' This paper is the preliminary work and experimental report of ReLPU.'
+date: 2025-08-28
+venue: '17th International Conference on Machine Learning and Computing'
+paperurl: '[https://doi.org/10.1007/978-3-031-44213-1_29](https://doi.org/10.1007/978-3-031-94898-5_3)'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
