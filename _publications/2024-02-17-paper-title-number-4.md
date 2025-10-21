@@ -3,7 +3,7 @@ title: "Contrastive Learning for Sleep Staging based on Inter Subject Correlatio
 collection: publications
 category: conferences
 #permalink: 'https://doi.org/10.1007/978-3-031-44213-1_29'
-excerpt: ' This paper presents the MViTime model that has been used in EEG sleep staging study..'
+excerpt: ' This paper presents the MViTime model that has been used in EEG sleep staging study.'
 date: 2023-09-22
 venue: '32nd International Conference on Artificial Neural Networks'
 paperurl: 'https://doi.org/10.1007/978-3-031-44213-1_29'
