@@ -11,54 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Quit from Doctor of Philosophy Program, University of Macau, 2025
+* M.Sc. in Biomedical Engineering, The Hong Kong Polytechnic University, 2024
+* B.Eng. in Automation, East China University of Science and Technology, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct. 2025 -- Apr. 2026: Research Assistant
+  * The Hong Kong Polytechnic University
+  * Supervisor: Ir. Dr. Aaron LEUNG and Prof. Amy FU
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct. 2023 -- Jul. 2025: Research Assistant
+  * The Hong Kong Polytechnic University
+  * Supervisor: Ir. Dr. Aaron LEUNG and Prof. Amy FU
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Jun. 2022 -- Aug. 2022: Research Intern
+  * Insta360
+  * Duties included: Optimize the self-developed aesthetic model for evaluating image aesthetics
