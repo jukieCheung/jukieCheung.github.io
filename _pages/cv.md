@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV here: [Jukie's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
 Education
 ======
 * Quit from Doctor of Philosophy Program, University of Macau, 2025
