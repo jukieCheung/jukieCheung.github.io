@@ -41,3 +41,13 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* 隐藏右上角的明暗主题切换按钮 */
+      #theme-toggle,
+      #site-theme-toggle,
+      .theme-toggle,
+      .color-scheme-toggle,
+      .navbar__toggle--theme,
+      .masthead__theme-toggle {
+        display: none !important;
+      }
