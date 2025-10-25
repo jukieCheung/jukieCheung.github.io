@@ -27,6 +27,6 @@ Work experience
   * The Hong Kong Polytechnic University
   * Supervisor: Ir. Dr. Aaron LEUNG and Prof. Amy FU
 
-* Jun. 2022 -- Aug. 2022: Research Intern
+* Jun. 2022 -- Aug. 2022: Internship in Deep Learning
   * Insta360
   * Duties included: Optimize the self-developed aesthetic model for evaluating image aesthetics
