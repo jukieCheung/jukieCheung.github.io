@@ -15,7 +15,7 @@ I was a PhD student in Department of [ECE](https://www.fst.um.edu.mo/ece/), Univ
 
 Researh Intrest
 ======
-My current research interests focus on the interaction design of a universal auricular acupressure device (embodied non-intelligent) and the automatic segmentation of knee joint images combined with radiomics analysis (disembodied intelligence).
+My current research interests focus on the interaction design of a general auricular acupressure device (embodied non-intelligent) and the automatic segmentation of knee joint images combined with radiomics analysis (disembodied intelligence).
 
 News
 ======
