@@ -22,3 +22,9 @@ News
 - [Oct 2025] Two papers got accepted to IEEE BIBM 2025.
 - [Aug 2025] One papers got accepted to CVIU.
                         
+<hr>
+
+<h2>Visitors</h2>
+<div style="text-align:center; margin: 1rem 0;">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=5dr8upylDad5_8nG8HbXM6YYBCztYjqFT7lDgfB9YNc&cl=ffffff&w=a"></script>
+</div>
