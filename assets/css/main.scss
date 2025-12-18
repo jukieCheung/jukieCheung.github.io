@@ -51,3 +51,12 @@
       .masthead__theme-toggle {
         display: none !important;
       }
+.footer-visitor-js{
+  display:flex;
+  justify-content:flex-end;  /* 靠右 */
+  margin-top: .5rem;
+}
+.footer-visitor-js #mapmyvisitors{
+  transform: scale(0.6);     /* 缩小：0.5~0.8 自己调 */
+  transform-origin: right top; /* 以右上角为基准缩放，不会往左跑太多 */
+}
