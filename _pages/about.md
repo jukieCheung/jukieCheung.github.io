@@ -11,11 +11,11 @@ I'm a Research Assistant in [The Hong Kong Polytechnic University](https://www.p
 
 I was advised by [Ir. Dr. Aaron Leung](https://www.polyu.edu.hk/bme/people/_delete_academic-staff-old/leung_kam_lun_aaron/) from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), and [Prof. Bei Wang](https://faculty.ecust.edu.cn/cise/wb1/main.htm) from [East China Universirty of Science and Technology](https://www.ecust.edu.cn/en/)
 
-I was a PhD student in Department of [ECE](https://www.fst.um.edu.mo/ece/), University of Macau, but I withdrawl study.
+I was a PhD student in University of Macau, but withdrawl.
 
 Researh Intrest
 ======
-My current research interests focus on the interaction design of a general auricular acupressure device (embodied non-intelligent) and the automatic segmentation of knee joint images combined with radiomics analysis (disembodied intelligence).
+My current research interests focus on the AI for Healthcare, especially in knee osteoarthritis.
 
 News
 ======
