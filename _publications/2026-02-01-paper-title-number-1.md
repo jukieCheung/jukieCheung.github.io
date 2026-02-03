@@ -6,7 +6,7 @@ category: conferences
 excerpt: ' This paper is a short survey of Point Cloud in medical shapes.'
 date: 2026-01-29
 venue: '2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)'
-paperurl: '10.1109/BIBM66473.2025.11357130'
+paperurl: 'https://10.1109/BIBM66473.2025.11357130'
 #citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
