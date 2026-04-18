@@ -19,8 +19,8 @@ Because of that, I have become quite picky. I am rarely persuaded by papers that
 
 Medical AI should not be reduced to benchmark chasing in a clinical costume.
 
-That was probably my strongest feeling while reviewing these submissions. All four papers were technical to different degrees, but I found myself consistently drawn to work that started from a genuinely interesting question or offered a fresh way of looking at the problem. In particular, two papers stood out to me because they were not just trying to win on performance—they were trying to say something new. I appreciated that a lot, and I honestly hope to see more work like this in the field.
+That was probably my strongest feeling while reviewing these submissions. All four papers were technical to different degrees, but I found myself consistently drawn to work that started from a genuinely interesting question or offered a fresh way of looking at the problem. In particular, two papers stood out to me because they were not just trying to win on performance, they were trying to say something new. I appreciated that a lot, and I honestly hope to see more work like this in the field.
 
 Reviewing these papers was a valuable experience. It also clarified, for myself, what kind of research I respect and what kind of research I want to do. Better metrics are nice, but they are not enough. A paper should also tell us why the problem matters, what we are really learning, and whether the work moves the field forward in a meaningful way.
 
-I am grateful for the opportunity to review for MICCAI 2025, and I hope I can continue contributing to the community—not only by building models, but also by asking harder questions about what is actually worth building.
+I am grateful for the opportunity to review for MICCAI 2026, and I hope I can continue contributing to the community not only by building models, but also by asking harder questions about what is actually worth building.
