@@ -19,6 +19,7 @@ My current research interests focus on the AI for Healthcare, especially in knee
 
 News
 ======
+- [Apr 2026] Shared a [short reflection](https://jukiecheung.github.io//blog/grateful-to-review-for-miccai/) on reviewing for MICCAI 2026.
 - [Oct 2025] Two papers got accepted to IEEE BIBM 2025.
 - [Aug 2025] One papers got accepted to CVIU.
 
