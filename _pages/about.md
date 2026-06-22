@@ -27,6 +27,6 @@ Service
 ======
 Reviewer of **MICCAI, IEEE ICME, PRCV**
 
-More about me
+Misc
 ======
 守屋丽奈的圈外男友（bushi
