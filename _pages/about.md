@@ -25,7 +25,7 @@ News
 
 Service
 ======
-Reviewer of **MICCAI, IEEE ICME, PRICAI, PRCV, ICIG**
+Reviewer of **IEEE TMM** [Journal], **MICCAI, IEEE ICME, PRICAI, PRCV, ICIG** [Conference]
 
 Misc
 ======
