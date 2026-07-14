@@ -15,7 +15,7 @@ I was a PhD student in University of Macau, but withdrawl.
 
 Researh Intrest
 ======
-My current research interests focus on the AI for Healthcare, especially in knee osteoarthritis.
+My current research interests focus on the AI for Healthcare, especially in CVD.
 
 News
 ======
