@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming PhD student in [Hong Kong Bapist University](https://www.hkbu.edu.hk/) by joint programme with [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/) & [BNBU](https://www.bnbu.edu.cn/en/).
+I am an incoming PhD student in [Hong Kong Baptist University](https://www.hkbu.edu.hk/) by joint programme with [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/) & [BNBU](https://www.bnbu.edu.cn/en/).
 
 I was a Research Assistant in [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), and advised by [Ir. Dr. Aaron Leung](https://scholar.google.com.hk/citations?hl=en&user=JHI8rCoAAAAJ&view_op=list_works&sortby=pubdate) from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), and [Prof. Bei Wang](https://faculty.ecust.edu.cn/cise/wb1/main.htm) from [East China Universirty of Science and Technology](https://www.ecust.edu.cn/en/)
 
