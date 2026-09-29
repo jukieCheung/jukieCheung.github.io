@@ -10,53 +10,66 @@ tags:
   - medical AI
 ---
 
-I recently went back to look at a large-scale dataset paper from MICCAI 2026. The dataset itself is, at least on paper, impressive: a large number of 3D medical images, paired reports, structured labels, and a benchmark built around multimodal models.
+I recently went back to a large-scale medical imaging dataset paper from MICCAI this year. I will not name it here, because the point is less about one paper than about a style of dataset work that I find increasingly difficult to understand.
 
-What bothered me was not the scale. The scale is obviously useful.
+The paper looks impressive at first glance: tens of thousands of 3D MRI–report pairs, structured clinical labels, multimodal models, expert involvement, and a set of “clinical” evaluation metrics. All of them are very modern.
 
-What bothered me was how easily scale can start to substitute for dataset science.
+The strange part is that, after reading the paper, I still had rather basic questions about the dataset itself.
 
-A dataset paper should probably be most rigorous exactly where ordinary model papers are often weakest: cohort description, annotation protocol, label definitions, uncertainty, inter-reader consistency, versioning, and the relationship between the released data and the benchmark claims. These are not supplementary details. They are the method.
+How exactly were the structured labels constructed? Were experts independently re-reading the images under a unified annotation protocol, or were labels mainly extracted from existing reports and then corrected? What were the operational definitions for the taxonomy? Which grading standards were used? How were ambiguous cases handled? What did the label distribution actually look like?
 
-Yet large datasets sometimes receive a strange kind of methodological discount. If the number is sufficiently impressive, the paper can begin to feel complete before those questions are actually answered.
+For a model paper, these might be implementation details. For a dataset paper, these *are the method*.
 
-I am also increasingly cautious about the phrase *expert-annotated*. In modern medical AI, that phrase can describe many different workflows. It may mean that experts independently reviewed every image. It may also mean that labels were first extracted from reports by a model, generated into a structured format, and then corrected by clinicians.
+That distinction seems obvious, but large dataset papers sometimes receive a curious methodological discount. Once the sample size becomes sufficiently large, the number itself starts doing rhetorical work that would normally have to be done by validation.
 
-Both workflows can be reasonable.
+A large number is certainly useful. It is not an annotation protocol.
 
-They are not the same workflow.
+The phrase *expert-annotated* deserves similar care. Human–AI collaborative annotation is completely reasonable, especially at scale. A model can structure reports, generate candidate labels, and reduce enormous amounts of repetitive work. Experts can then verify and correct those outputs.
 
-The distinction matters because report-derived labels inherit what was written, what was omitted, and how the original report was phrased. If those labels later become “ground truth” for a benchmark, I would like to know much more about their reliability than simply how many clinician-hours were involved.
+There is nothing wrong with that workflow. But it is not the same as independent image-level expert annotation, and the difference should be made painfully clear. Report-derived labels inherit whatever was documented in the original report, including omissions, uncertainty, reporting habits, and institutional conventions. If those labels later become benchmark “ground truth,” then annotation reliability becomes one of the most important results in the paper.
 
-The same applies to “clinical” evaluation. If a model-generated report is scored by another large language model against a reference report and structured labels, that may be a useful consistency metric. Calling it clinical validation is more ambitious. I would personally want to see quantitative agreement with human readers before becoming too enthusiastic about that wording.
+I would therefore expect things such as inter-reader agreement, adjudication statistics, error rates before and after expert correction, or at least a carefully validated subset. Instead, we are often told how many expert hours were involved. Hours are useful information. They are not a reliability statistic.
 
-Another thing I find increasingly important is dataset lineage.
+I had a similar reaction to the clinical evaluation. The paper introduced several clinically named metrics, but the final scoring was performed by a large language model using structured prompts.
 
-A dataset can evolve. New annotations can be added. New tasks can be created. VQA and reasoning labels can be layered on top of an existing image-report corpus. That is completely normal and often very valuable.
+Again, this can be useful.
 
-But once the same underlying dataset starts appearing in multiple forms, the relationship between those forms should be painfully explicit.
+An LLM-based evaluator may be a perfectly practical way to compare thousands of generated reports. But if the metric is supposed to support claims about clinical validity, I would like to see quantitative evidence that its scores agree with clinicians. “Experts thought the outputs looked reasonable” and “the evaluator agrees with experts” are different levels of evidence.
 
-Which version corresponds to the published paper?
+There is also a framing problem that appears quite often in medical multimodal work. Report generation, image understanding, diagnostic reasoning, and clinical diagnosis gradually become interchangeable terms as the paper progresses.
 
-Which annotations were available at the time?
+They are not interchangeable.
 
-Which train/test split was used?
+Generating a report that resembles a reference report is a legitimate and useful task. It does not automatically demonstrate autonomous diagnosis, clinical reasoning, or clinical decision-making. Those stronger words require stronger evidence.
 
-What changed later?
+What makes this slightly ironic is that the missing information is not exotic. Nobody is asking for a new architecture.
 
-A benchmark should not become a moving target simply because the repository behind the paper keeps growing.
+I would happily trade another benchmark table for:
 
-None of this means large medical datasets are unimportant. Quite the opposite. They are important enough that they deserve boring, meticulous documentation.
+- a complete annotation schema;
+- exact label definitions;
+- severity-grading criteria;
+- cohort and label distributions;
+- a clear account of what was extracted from reports and what was independently judged from images;
+- quantitative annotation-quality analysis;
+- and validation of the proposed clinical metrics against human readers.
 
-I would much rather read three pages of cohort statistics, annotation reliability, label definitions, and version history than another table showing twelve multimodal models producing slightly different BLEU scores.
+This material is sometimes treated as supplementary detail because conference pages are limited.
 
-There is a general lesson here for medical AI.
+I am not fully convinced by that argument.
 
-**Scale is valuable. Scale is not validation.**
+If the main contribution is a dataset, then the dataset should probably fit into the dataset paper.
 
-“Expert-annotated” is not a reliability statistic.  
-“Clinically aligned” is not a study design.  
-“Reasoning” is not automatically image-grounded reasoning.  
-And a large number in the title does not make the uncomfortable methodological questions disappear.
+A benchmark can always add one fewer model.
 
-Sometimes the least glamorous part of a dataset paper is the part that matters most.
+The broader lesson, at least for me, is that dataset science has to be boring in exactly the right places. Cohort composition, label provenance, annotation rules, reader agreement, uncertainty, and versioning are not glamorous. They do not produce colorful architecture diagrams.
+
+They are also the parts that determine whether everyone else's future experiments mean anything.
+
+So I remain very enthusiastic about large medical datasets.
+
+I am simply becoming less enthusiastic about treating **scale as evidence of quality**.
+
+A dataset can be large, expert-assisted, clinically motivated, and still be methodologically under-described.
+
+And when the dataset itself is the contribution, “we will provide the details elsewhere” is a surprisingly ambitious thing to ask the reader to accept.
