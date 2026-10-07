@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am an incoming PhD student in [Hong Kong Baptist University](https://www.hkbu.edu.hk/) by joint programme with [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/) & [BNBU](https://www.bnbu.edu.cn/en/).
 
-I was a Research Assistant in [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), and advised by [Ir. Dr. Aaron Leung](https://scholar.google.com.hk/citations?hl=en&user=JHI8rCoAAAAJ&view_op=list_works&sortby=pubdate) (already retired as Associate Professor), and [Prof. Bei Wang](https://faculty.ecust.edu.cn/cise/wb1/main.htm) from [East China University of Science and Technology](https://www.ecust.edu.cn/en/)
+I was a Research Assistant in [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), and advised by [Ir. Dr. Aaron Leung](https://scholar.google.com.hk/citations?hl=en&user=JHI8rCoAAAAJ&view_op=list_works&sortby=pubdate) (already retired as Associate Professor) and [Prof. Amy Fu](https://www.polyu.edu.hk/rs/people/academic-staff/prof-fu-amy/?sc_lang=sc). I received my bachelor degree under guidance from [Prof. Bei Wang](https://faculty.ecust.edu.cn/cise/wb1/main.htm) from [East China University of Science and Technology](https://www.ecust.edu.cn/en/)
 
 
 Researh Intrest
@@ -30,4 +30,4 @@ Misc
 ======
 I really enjoy medium format film photography and long-distance jogging.
 
-守屋丽奈的圈外男友（bushi
+守屋丽奈的圈外男友（No）
