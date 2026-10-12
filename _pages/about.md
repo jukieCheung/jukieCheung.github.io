@@ -13,7 +13,9 @@ I was a Research Assistant in [The Hong Kong Polytechnic University](https://www
 
 Research Interests
 ======
-My current research interests focus on the AI for Healthcare, especially in heart motion and CVD.
+My research lies at the intersection of **medical artificial intelligence, computer vision, and representation learning**, with a particular focus on cardiovascular imaging and cardiac function.
+
+I am interested in developing learning methods that capture clinically meaningful representations of cardiac anatomy, motion, and function. More broadly, I am interested in understanding how medical AI models can generalize across imaging modalities and support reliable clinical applications.
 
 News
 ======
