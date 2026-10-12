@@ -11,7 +11,7 @@ I am an incoming PhD student in [Hong Kong Baptist University](https://www.hkbu.
 I was a Research Assistant in [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), and advised by [Ir. Dr. Aaron Leung](https://scholar.google.com.hk/citations?hl=en&user=JHI8rCoAAAAJ&view_op=list_works&sortby=pubdate) (already retired as Associate Professor) and [Prof. Amy Fu](https://www.polyu.edu.hk/rs/people/academic-staff/prof-fu-amy/?sc_lang=sc). I received my bachelor degree under guidance from [Prof. Bei Wang](https://faculty.ecust.edu.cn/cise/wb1/main.htm) of [East China University of Science and Technology](https://www.ecust.edu.cn/en/)
 
 
-Researh Intrest
+Research Interests
 ======
 My current research interests focus on the AI for Healthcare, especially in heart motion and CVD.
 
