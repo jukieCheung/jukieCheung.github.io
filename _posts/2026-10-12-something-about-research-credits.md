@@ -10,7 +10,7 @@ tags:
 
 *Some scattered thoughts on authorship, open source, AI, and academic recognition.*
 
-##An Unexpected NeurIPS Paper
+## An Unexpected NeurIPS Paper
 
 This April, I went to Tokyo for a Sakurazaka46 concert. While I was there, I caught up with an old undergraduate friend who is now studying at the University of Tokyo. He brought along one of his classmates, and the three of us had dinner together.
 
