@@ -26,7 +26,7 @@ News
 
 Service
 ======
-Reviewer of **IEEE TMM, IEEE JBHI** [Journal], **MICCAI, IEEE ICME, PRICAI, PRCV** [Conference]
+Reviewer of **IEEE TMM, IEEE JBHI** [Journal], **MICCAI, IEEE ICME, IEEE ICASSP, PRICAI** [Conference]
 
 Misc
 ======
